@@ -1,0 +1,2 @@
+# gssakuntansi
+Aplikasi akuntansi GSS
